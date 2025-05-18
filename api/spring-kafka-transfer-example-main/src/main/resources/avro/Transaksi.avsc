@@ -1,0 +1,13 @@
+{
+  "type": "record",
+  "name": "TrxDto",
+  "namespace": "com.activity.dto",
+  "fields": [
+    {"name": "id", "type": ["null", "long"], "default": null},
+    {"name": "noReferensi", "type": "string"},
+    {"name": "norekPengirim", "type": "string"},
+    {"name": "norekPenerima", "type": "string"},
+    {"name": "jumlahTransfer", "type": "double"},
+    {"name": "status", "type": "string"}
+  ]
+}

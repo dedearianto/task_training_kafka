@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Mon May 19 06:19:01 ICT 2025:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.17.1.0 - (1913217): instance a816c00e-0196-e5b1-8628-0000019e1488 
+on database directory memory:C:\Users\dede\Documents\kantor\new-task\spring-kafka-transfer-example-main\0c4cfd58-7f7e-45f9-9caa-633fbb9f2993 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@76ed5528 
+Loaded from file:/C:/Users/dede/.m2/repository/org/apache/derby/derby/10.17.1.0/derby-10.17.1.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=21.0.6+8-LTS-188
+user.dir=C:\Users\dede\Documents\kantor\new-task\spring-kafka-transfer-example-main
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
